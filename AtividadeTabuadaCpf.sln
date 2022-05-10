@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeTabuadaCpf", "AtividadeTabuadaCpf\AtividadeTabuadaCpf.csproj", "{7BCD9D40-4BFA-4E55-9BD6-7A7C4F90BCD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BCD9D40-4BFA-4E55-9BD6-7A7C4F90BCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCD9D40-4BFA-4E55-9BD6-7A7C4F90BCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCD9D40-4BFA-4E55-9BD6-7A7C4F90BCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCD9D40-4BFA-4E55-9BD6-7A7C4F90BCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F40EE2F-FBB7-4729-9242-F5820038A292}
+	EndGlobalSection
+EndGlobal
